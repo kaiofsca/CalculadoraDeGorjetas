@@ -1,0 +1,3 @@
+# CalculadoraDeGorjetas
+Este é um Projetinho criado com HTML e CSS, posteriomente vou adicionar Javascript.
+Deu um erro na hr de commitar os arquivos...
